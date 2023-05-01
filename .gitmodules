@@ -1,0 +1,3 @@
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/gloryhammer7/Git_rebase_practice.git
